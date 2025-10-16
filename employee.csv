@@ -1,0 +1,11 @@
+﻿EMP_ID,NAME,DEPARTMENT,LEVELS,SALARY
+1,John,CEO office,CEO,120000
+2,Anna,CEO office,SVP,95000
+3,David,Marketing,SVP,85000
+4,Luis,Marketing,VP,88000
+5,Scott,Marketing,Manager,70000
+6,Adams,Marketing,Junior Exec,25000
+7,Marry,Sales,Manager,72000
+8,Alexandre,Sales,Junior Exec,35000
+9,Jenny,Finance,VP,92000
+10,Lisa,Human Resource,VP,84000
