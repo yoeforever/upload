@@ -1,0 +1,11 @@
+﻿EMP_ID,NAME,DEPARTMENT,LEVELS,SALARY
+1,John,CEO office,CEO,"฿120,000"
+2,Anna,CEO office,SVP,"฿95,000"
+3,David,Marketing,SVP,"฿85,000"
+4,Luis,Marketing,VP,"฿88,000"
+5,Scott,Marketing,Manager,"฿70,000"
+6,Adams,Marketing,Junior Exec,"฿25,000"
+7,Marry,Sales,Manager,"฿72,000"
+8,Alexandre,Sales,Junior Exec,"฿35,000"
+9,Jenny,Finance,VP,"฿92,000"
+10,Lisa,Human Resource,VP,"฿84,000"
